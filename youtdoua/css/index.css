@@ -1,0 +1,44 @@
+body{
+	background-color: black;
+}
+a{
+	text-decoration-line: none;
+}
+legend{
+	color: green;
+	font-family: "comic sans ms";
+	font-size: 30px;
+}
+.chaine{
+	margin-left: 500px;
+	color: rgb(255,36,41);
+	border: 1px solid black;
+	margin-top: 20px;
+	font-size: 30px;
+	background-color: green;
+}
+.chaine:hover{
+	box-shadow: 6px 6px 0px rgb(248,44,176);
+}
+.flottant{
+	color: rgb(255,36,41);
+	float: right;	
+}
+p{
+	color: rgb(66,225,225);
+	margin-left: 20px;
+	font-family: "comic sans ms";
+}
+li{
+	color: rgb(239,36,225);
+	margin-left: 20px;
+	font-family: "comic sans ms";
+}
+h1{
+	color: red;
+	font-family: "comic sans ms";
+	text-align: center;
+}
+video{
+	margin-left: 25%;
+}
